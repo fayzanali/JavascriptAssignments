@@ -86,5 +86,6 @@ var row = 0, column = 0, index = 0;
 // Legal Variables:
 var name, $name, _name, $age, age;
 // Illegal Variables:
-var 1name, abd+xyz, /abc, abc xyz, @abc;
+// var 1name, abd+xyz, /abc, ab xyz, @abc;
+
 
